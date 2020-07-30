@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ldz@merci.ltd:6000" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="ldz@merci.ltd:6000">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ldz/temp_project/z_STM" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/ckpt" />
+            <excludedPath local="true" path="$PROJECT_DIR$/test" />
+            <excludedPath local="true" path="$PROJECT_DIR$/runs" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

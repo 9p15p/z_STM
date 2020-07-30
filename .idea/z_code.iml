@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/ToDelete" />
+      <excludeFolder url="file://$MODULE_DIR$/ckpt" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0712140400" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0712152755" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0715212818" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0715212855" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0715213212" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0715213420" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0715213437" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0715213543" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0715213618" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0715213732" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0715213832" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0715213842" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0715224846" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0715224935" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0715225231" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0715232509" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0715233109" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0715233243" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0715233613" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0715234552" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0715235549" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0715235829" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0716001426" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0716101811" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0716101823" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0716110311" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0716110503" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0716111238" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0716112016" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0716141807" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/main_EMN0716141852" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0712172725" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715212200" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715212239" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715212419" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715212644" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715212704" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715220342" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715220350" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715220416" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715220429" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715220652" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715220802" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715221008" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715221027" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715221127" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715221358" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715221712" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715221837" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715222101" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715222318" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715222444" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715223202" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715223513" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715223651" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715224014" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715224115" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715224426" />
+      <excludeFolder url="file://$MODULE_DIR$/runs/pre_EMN0715224450" />
+      <excludeFolder url="file://$MODULE_DIR$/test/overlay2017/bike-packing" />
+      <excludeFolder url="file://$MODULE_DIR$/test/overlay2017/blackswan" />
+      <excludeFolder url="file://$MODULE_DIR$/test/overlay2017/bmx-trees" />
+      <excludeFolder url="file://$MODULE_DIR$/test/overlay2017/breakdance" />
+      <excludeFolder url="file://$MODULE_DIR$/test/overlay2017/camel" />
+      <excludeFolder url="file://$MODULE_DIR$/test/overlay2017/car-roundabout" />
+      <excludeFolder url="file://$MODULE_DIR$/test/overlay2017/car-shadow" />
+      <excludeFolder url="file://$MODULE_DIR$/test/overlay2017/cows" />
+      <excludeFolder url="file://$MODULE_DIR$/test/overlay2017/dance-twirl" />
+      <excludeFolder url="file://$MODULE_DIR$/test/overlay2017/dog" />
+      <excludeFolder url="file://$MODULE_DIR$/test/overlay2017/dogs-jump" />
+      <excludeFolder url="file://$MODULE_DIR$/test/overlay2017/drift-chicane" />
+      <excludeFolder url="file://$MODULE_DIR$/test/overlay2017/drift-straight" />
+      <excludeFolder url="file://$MODULE_DIR$/test/overlay2017/goat" />
+      <excludeFolder url="file://$MODULE_DIR$/test/overlay2017/gold-fish" />
+      <excludeFolder url="file://$MODULE_DIR$/test/overlay2017/india" />
+      <excludeFolder url="file://$MODULE_DIR$/test/overlay2017/judo" />
+      <excludeFolder url="file://$MODULE_DIR$/test/overlay2017/kite-surf" />
+      <excludeFolder url="file://$MODULE_DIR$/test/overlay2017/lab-coat" />
+      <excludeFolder url="file://$MODULE_DIR$/test/overlay2017/libby" />
+      <excludeFolder url="file://$MODULE_DIR$/test/overlay2017/loading" />
+      <excludeFolder url="file://$MODULE_DIR$/test/overlay2017/mbike-trick" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.7 (base)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="renderExternalDocumentation" value="true" />
+  </component>
+</module>
